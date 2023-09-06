@@ -50,6 +50,7 @@ pipeline {
                 echo "Deploying the application to a staging server (e.g., AWS EC2 instance)"
                 // Deploy to staging server using deployment tool (e.g., AWS CodeDeploy)
                 // Example: aws deploy create-deployment --application-name MyApp --deployment-group-name Staging --s3-location s3://your-bucket/your-app.zip
+                // just a random change to the file
             }
         }
 
